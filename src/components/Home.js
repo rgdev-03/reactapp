@@ -6,6 +6,7 @@ import './login.css'
 
 export default function Home() {
     return (
+        //hi
         <div className="container1">
            <h1 className="main-title text-center">login / register page</h1>
             <p className="main-para text-center">join us now and don't waste time</p>
